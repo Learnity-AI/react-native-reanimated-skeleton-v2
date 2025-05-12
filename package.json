@@ -1,0 +1,32 @@
+{
+  "homepage": "https://marcuzgabriel.github.io/react-native-reanimated-skeleton/",
+  "author": "BAHADIR ARAZ <bahadiraraz@protonmail.com>",
+  "license": "MIT",
+  "name": "react-native-reanimated-skeleton-v2",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "expo-linear-gradient": "*",
+    "react-native-reanimated": "*"
+  },
+  "react-native": "src/ReactNativeReanimatedSkeleton.ts",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "types": "react-native-reanimated-skeleton.d.ts",
+  "files": [
+    "src/",
+    "lib/",
+    "react-native-reanimated-skeleton.d.ts",
+    "README.md",
+    "!__snapshots__",
+    "!*.test.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/Learnity-AI/react-native-reanimated-skeleton-v2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Learnity-AI/react-native-reanimated-skeleton-v2.git"
+  }
+}
